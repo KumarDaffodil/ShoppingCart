@@ -1,0 +1,1 @@
+INSERT INTO PAGES VALUES(1,'Home','home',6,'Home')
